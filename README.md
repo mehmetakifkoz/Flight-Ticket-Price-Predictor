@@ -1,0 +1,2 @@
+# Flight Ticket Price Predictor
+ The project aims to develop a machine learning model that accurately predicts the prices of flight tickets. Airline ticket pricing is a complex and dynamic process, influenced by various factors such as travel dates, destination, airline, time of booking, demand, and seasonality. This predictive model will utilize historical flight data to learn patterns and relationships between these variables, enabling it to forecast ticket prices for future flights with a high degree of accuracy.
