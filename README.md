@@ -27,8 +27,3 @@ The dataset will be divided into training and testing sets to evaluate the model
 To further enhance the model's robustness, we may employ techniques like Cross-Validation and Hyperparameter tuning. This ensures that the model is not overfitting and can generalize well on new, unseen data.
 
 By the end of this project, we expect to have a reliable and accurate ML model that can predict flight ticket prices for given input parameters. This model can be used by travel websites, airlines, or customers to plan and make informed decisions regarding air travel.
-
-Reference:
-
-• Author: Abin Varghese
-• Project Resource: ProjectPro.io
