@@ -1,6 +1,6 @@
 # Predicting Flight Tickets with ML
 
-Author: Abin Varghese (Reference: ProjectPro.io)
+Author: [Abin Varghese](https://github.com/Spartan-119/Project-Pro/blob/main/Flight%20Ticket%20Price%20Predictor/FTPP.ipynb) (Reference: ProjectPro.io)
 
 ## Part 1: Business Problem, Importing the Data, and Exploring the Data
 
